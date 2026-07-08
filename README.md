@@ -80,13 +80,6 @@ This project demonstrates my experience in building modern web applications with
 - PostgreSQL
 - Tailwind CSS
 
----
-
-## 📊 GitHub Stats
-
-![Gülsüm's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsum-mehdiyeva&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsum-mehdiyeva&layout=compact&theme=transparent)
 
 ---
 
