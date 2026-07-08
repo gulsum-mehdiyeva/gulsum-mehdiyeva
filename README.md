@@ -85,9 +85,12 @@ This project demonstrates my experience in building modern web applications with
 
 ## 📜 Certifications
 
-- Frontend Developer Certificate
-- Backend Developer Certificate
-- Full Stack Developer Certificate
+- Full Stack Developer Certificate — Workintech Academy
+- Backend Developer Certificate — Workintech Academy
+- Frontend Developer Certificate — Workintech Academy
+
+🔗 Verify my certificates:
+https://certopus.com/wallet/570ca13f8dd518376a2ce3d297f6a73d
 
 ---
 
